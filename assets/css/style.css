@@ -87,7 +87,7 @@ a:focus{
     font-weight: bold;
     border-bottom: 3px solid #ddd;
     padding-bottom: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 .abMeImg{
     margin-right: 20px;
@@ -108,4 +108,37 @@ a:focus{
     bottom: 0;
     left: 48.5%;
     font-size: 0.8rem;
+}
+.project{
+    height: 200px;
+    width: 300px;
+    margin-right: 50px;
+    margin-bottom: 75px;
+    display: inline-block;
+    position: relative;
+}
+.projectTitle{
+    width: 100%;
+    background-color: #4aaaa5;
+    color: #fff;
+    text-align: center;
+    position: absolute;
+    top: 120px;
+    padding: 20px 0;
+    font-size: 125%;
+}
+#proj1{
+    background-image: url("https://picsum.photos/id/10/300/200");
+}
+#proj2{
+    background-image: url("https://picsum.photos/id/20/300/200");
+}
+#proj3{
+    background-image: url("https://picsum.photos/id/30/300/200");
+}
+#proj4{
+    background-image: url("https://picsum.photos/id/40/300/200");
+}
+#proj5{
+    background-image: url("https://picsum.photos/id/50/300/200");
 }
