@@ -6,33 +6,33 @@ body{
 h1,h2,h3,h4,h5,h6{
     font-family: 'Georgia', Times, 'Times New Roman', serif;
 }
-p{
+p,label{
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     line-height: 2rem;
     color: #777;
     font-weight: 500;
 }
-a{
+.navlinks{
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     font-weight: 500;
 }
-a:link{
+.navlinks:link{
     color: #777;
     text-decoration: none;
 }
-a:visited{
+.navlinks:visited{
     color: #777;
     text-decoration: none;
 }
-a:hover{
+.navlinks:hover{
     color: #777;
     text-decoration: none;
 }
-a:active{
+.navlinks:active{
     color: #777;
     text-decoration: none;
 }
-a:focus{
+.navlinks:focus{
     color: #777;
     text-decoration: none;
 }
@@ -141,4 +141,19 @@ a:focus{
 }
 #proj5{
     background-image: url("https://picsum.photos/id/50/300/200");
+}
+input{
+    height: 20px;
+    width: 100%;
+}
+button{
+    height: 35px;
+    width: 100px;
+    color: #fff;
+    background-color: #4aaaa5;
+    font-size: 14px;
+}
+textarea{
+    height: 200px;
+    width: 100%;
 }
