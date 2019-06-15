@@ -94,7 +94,7 @@ p,a,label{
 }
 .foot{
     width: 100%;
-    position: relative;
+    position: fixed;
     bottom: 0;
     border-top: 8px solid #4aaaa5;
     background-color: #666;
