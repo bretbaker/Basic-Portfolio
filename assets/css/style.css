@@ -28,7 +28,7 @@ p,a,label{
     text-decoration: none;
 }
 .navlinks:hover{
-    color: #777;
+    color: #4aaaa5;
     text-decoration: none;
 }
 .navlinks:active{
@@ -94,7 +94,7 @@ p,a,label{
 }
 .foot{
     width: 100%;
-    position: absolute;
+    position: relative;
     bottom: 0;
     border-top: 8px solid #4aaaa5;
     background-color: #666;
@@ -135,6 +135,9 @@ button{
     color: #fff;
     background-color: #4aaaa5;
     font-size: 14px;
+}
+button:hover{
+    cursor: pointer;
 }
 textarea{
     height: 200px;
