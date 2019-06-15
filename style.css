@@ -127,6 +127,21 @@ p,label{
     padding: 20px 0;
     font-size: 125%;
 }
+#proj1{
+    background-image: url("assets/images/portfolio-1.jpg");
+}
+#proj2{
+    background-image: url("assets/images/portfolio-2.jpg");
+}
+#proj3{
+    background-image: url("assets/images/portfolio-3.jpg");
+}
+#proj4{
+    background-image: url("assets/images/portfolio-4.jpg");
+}
+#proj5{
+    background-image: url("assets/images/portfolio-5.jpg");
+}
 input{
     height: 20px;
     width: 100%;
