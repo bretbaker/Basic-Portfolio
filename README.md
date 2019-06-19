@@ -1,1 +1,1 @@
-This is the first homework assignment for coding bootcamp.  It is a simple, sample portfolio webpage, consisting of three html files and one css file.
+Coding Bootcamp HW Assignment #1.  A simple, sample portfolio webpage, consisting of three html files and two css files.
