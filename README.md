@@ -1,1 +1,2 @@
-Coding Bootcamp HW Assignment #1.  A simple, sample portfolio webpage, consisting of three html files and two css files.
+- Coding Bootcamp HW Assignment #1.  
+- A static HTML website using semantic tags and minimal CSS.
